@@ -1,6 +1,6 @@
 
 
 
-def fun(x):
+def fun(x,y):
 
-    return x
+    return x + y
