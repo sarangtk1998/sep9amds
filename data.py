@@ -8,7 +8,7 @@ def fun(x,y,z):
     return z
 
 
-def sub(x-y):
+def sub(x,y):
 
     return x - y
 
