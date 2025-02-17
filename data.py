@@ -1,8 +1,8 @@
 
 
 
-def fun(x,y,z):
+def fun(x,y,z,a):
 
-    out = x + y + z
+    out = x + y + z + a
 
     return z
